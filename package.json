@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://vanumasrikanthece-lab.github.io/rwt/",
+  "homepage": "https://vsrikanth1909.github.io/rwt/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
